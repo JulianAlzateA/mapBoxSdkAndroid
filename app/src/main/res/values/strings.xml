@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DecimetrixAndroidTest</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoianVsaWFuYWx6YXRlIiwiYSI6ImNsZTd4amt6NTA5cHEzcnMzZGp4dXB0cmYifQ.p-CPqXdpIzhAnNTSe0h8cg</string>
+    <string name="view_annotation_mode_map_sync">Map Synchronized</string>
+    <string name="view_annotation_mode_map_fixed_delay">Map Fixed Delay</string>
+    <string name="favorites">Favorites</string>
+</resources>
